@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Bittu/Jarfiles/Hibernate Jar Files/asm.jar"/>
+	<classpathentry kind="lib" path="D:/Bittu/Jarfiles/Hibernate Jar Files/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="D:/Bittu/Jarfiles/Hibernate Jar Files/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Bittu/Jarfiles/Hibernate Jar Files/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Bittu/Jarfiles/Hibernate Jar Files/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Bittu/Jarfiles/Hibernate Jar Files/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Bittu/Jarfiles/Hibernate Jar Files/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Bittu/Jarfiles/Hibernate Jar Files/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/Bittu/Jarfiles/Hibernate Jar Files/jaas.jar"/>
+	<classpathentry kind="lib" path="D:/Bittu/Jarfiles/Hibernate Jar Files/jta.jar"/>
+	<classpathentry kind="lib" path="D:/Bittu/Jarfiles/Hibernate Jar Files/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="D:/Bittu/Jarfiles/Hibernate Jar Files/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
